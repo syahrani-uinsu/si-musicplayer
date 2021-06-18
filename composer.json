@@ -1,0 +1,19 @@
+{
+    "name": "syahrani-uinsu/oop-praktikum-uts",
+    "description": "Praktikum Pemprograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "syahrani-uinsu",
+            "email": "syahranitazli00@gmail.com"
+        }
+    ],
+    "autoload": {
+    "psr-4": {
+        "App\\" : "app/"
+        }
+    }
+}
